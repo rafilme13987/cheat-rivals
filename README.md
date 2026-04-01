@@ -1,0 +1,2 @@
+# cheat-rivals
+rivals
